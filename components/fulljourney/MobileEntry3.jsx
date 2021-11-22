@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import Link from 'next/link'
 import Image from 'next/image'
 import WUlogo from '../../public/img/wu.png'
+
 import RaiPayLogo from '../../public/img/raipaypng.png'
 
 const Wrapper = styled.div`
