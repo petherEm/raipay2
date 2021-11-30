@@ -289,8 +289,8 @@ const CheckRates = () => {
                         <Label>Receiver gets</Label>
                     </Right>
                 </InputItem>
-                    <h4>FX Rate: <span style={{fontWeight: '300'}}>1 CHF = 12.10 TRY</span></h4>
-                    <h4>FEE: <span style={{fontWeight: '300'}}>+3.5 CHF </span></h4>
+                    <h4>FX Rate: <span style={{fontWeight: '300'}}>1 EUR = 12.10 TRY</span></h4>
+                    <h4>FEE: <span style={{fontWeight: '300'}}>+3.5 EUR </span></h4>
                     <p>How your receiver would like to pick up money?</p>
                 <InputItem>
                     <Left>

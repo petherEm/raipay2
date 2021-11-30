@@ -26,6 +26,7 @@ const Container = styled.div`
 const ScreenWrapper = styled.div`
     background-color: white;
     margin-top: 40px;
+    margin-bottom: 40px;
     width: 470px;
     height: 690px;
     display: flex;
@@ -33,13 +34,14 @@ const ScreenWrapper = styled.div`
  
 
     -webkit-box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
--moz-box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
-box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
+    box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
 
 `
 const ScreenWrapperMain = styled.div`
     background-color: white;
     margin-top: 40px;
+    margin-bottom: 40px;
     width: 470px;
     min-height: 690px;
     height: auto;
@@ -48,8 +50,8 @@ const ScreenWrapperMain = styled.div`
     
 
     -webkit-box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
--moz-box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
-box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
+    box-shadow: 8px 9px 24px -4px rgba(66, 68, 90, 1);
 
 `
 
@@ -66,7 +68,7 @@ const FullJourneyInfo = () => {
     return (
         <Container>
             <Title>RaiPay - First Time User</Title>
-            <Desc>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora porro iusto beatae adipisci facere quos atque labore ad alias voluptatibus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora porro iusto beatae adipisci facere quos atque labore ad alias voluptatibus.</Desc>
+            <Desc></Desc>
             
             <ScreenWrapper>
                 <MobileEntry />

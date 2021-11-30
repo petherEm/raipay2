@@ -26,6 +26,7 @@ const Container = styled.div`
 const ScreenWrapper = styled.div`
     background-color: white;
     margin-top: 40px;
+    margin-bottom: 40px;
     width: 470px;
     height: 690px;
     display: flex;
@@ -36,6 +37,7 @@ const ScreenWrapper = styled.div`
 const ScreenWrapperMain = styled.div`
     background-color: white;
     margin-top: 40px;
+    margin-bottom: 40px;
     width: 470px;
     min-height: 690px;
     height: auto;
@@ -63,7 +65,7 @@ const VerificationJourneyInro = () => {
     return (
         <Container>
             <Title>Verification Journey only</Title>
-            <Desc>Data on verification journey only</Desc>
+            <Desc></Desc>
             
 
             <ScreenWrapperMain>

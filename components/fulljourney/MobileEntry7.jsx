@@ -244,7 +244,7 @@ const MobileEntry7 = () => {
                         <Label>Receiver gets</Label>
                     </Right>
                 </InputItem>
-                    <h4>1 CHF = 12.10 TRY</h4>
+                    <h4>1 EUR = 12.10 TRY</h4>
                     <p>How your receiver would like to pick up money?</p>
                 <InputItem>
                     <Left>
