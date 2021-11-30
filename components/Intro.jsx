@@ -44,7 +44,7 @@ const Intro = () => {
     return (
         <Container>
             <Title>Welcome to WU Hosted Solution Customer Journey</Title>
-            <Desc>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora porro iusto beatae adipisci facere quos atque labore ad alias voluptatibus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora porro iusto beatae adipisci facere quos atque labore ad alias voluptatibus.</Desc>
+            <Desc></Desc>
             
             <ScreenWrapper>
                 <MobileEntry />
